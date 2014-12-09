@@ -40,7 +40,7 @@ License
 
 BSD
 
-Author Information
+Authors Information
 ------------------
-
 Jarno Keskikangas
+g-div
